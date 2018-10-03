@@ -34,4 +34,9 @@ class QuestionMarkChecker
      end
 
   end
+
+
 end
+
+ puts QuestionMarkChecker.new.questions_marks('as???as???da???')
+
